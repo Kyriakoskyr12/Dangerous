@@ -1,9 +1,3 @@
-![Stars][stars-shield]][stars-url]
-[![Contributors][contributors-shield]][contributors-url]
-[![Issues][issues-shield]][issues-url]
-
-___
-
 <br />
 <p align="center">
   <a href="https://github.com/Kyriakoskyr12/Dangerous">
