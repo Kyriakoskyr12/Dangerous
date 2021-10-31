@@ -20,4 +20,4 @@
 
 ___
 
-![image](https://cdn.discordapp.com/attachments/877679382280421416/877682147492765716/unknown.png)
+![image](https://media.discordapp.net/attachments/901556655421005894/904124705143922708/20211030_173429.jpg)
