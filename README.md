@@ -18,9 +18,9 @@ ___
     <br />
     <a href="https://discord.com/api/oauth2/authorize?client_id=520577898642407434&redirect_uri=https%3A%2F%2Fprotector.shadowct.eu&scope=applications.commands">Invite it</a>
     ·
-    <a href="https://github.com/tougrel/shady/issues">Report Bug</a>
+    <a href="https://github.com/Κyriakoskyr12/Dangerous/issues">Report Bug</a>
     ·
-    <a href="https://github.com/tougrel/shady/issues">Request Feature</a>
+    <a href="https://github.com/Kyriakoskyr12/Dangerous/issues">Request Feature</a>
   </p>
 </p>
 
