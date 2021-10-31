@@ -6,11 +6,11 @@ ___
 
 <br />
 <p align="center">
-  <a href="https://github.com/tougrel/shady">
-    <img src="https://cdn.discordapp.com/attachments/877679382280421416/885462131577847828/Logo_Glow_White.png" alt="Shady's logo!" width="126" height="126">
+  <a href="https://github.com/Kyriakoskyr12/Dangerous">
+    <img src="https://media.discordapp.net/attachments/901556655421005894/904124705143922708/20211030_173429.jpg" alt="Dangerous logo!" width="126" height="126">
   </a>
 
-  <h3 align="center">Shady</h3>
+  <h3 align="center">Dangerous</h3>
 
   <p align="center">
     A feature-rich bot including a fun leveling system, an amazing economy system, tools to moderate your server along with a modern dashboard, and many others! All in set with ease of use.
