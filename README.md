@@ -29,8 +29,8 @@ ___
 ![image](https://cdn.discordapp.com/attachments/877679382280421416/877682147492765716/unknown.png)
 
 
-[contributors-shield]: https://img.shields.io/github/contributors/tougrel/shady.svg?style=for-the-badge
-[contributors-url]: https://github.com/tougrel/shady/graphs/contributors
+[contributors-shield]: https://img.shields.io/github/contributors/Kyriakoskyr12/dangerous.svg?style=for-the-badge
+[contributors-url]: https://github.com/Kyriakoskyr12/Dangerous/graphs/contributors
 
 [stars-shield]: https://img.shields.io/github/stars/tougrel/shady.svg?style=for-the-badge
 [stars-url]: https://img.shields.io/github/stars/tougrel/shady?color=fff159&label=Stars&style=for-the-badge&logo=github
